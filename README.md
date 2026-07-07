@@ -1,6 +1,6 @@
 # Store Monitoring Backend - FastAPI
 
-A robust backend service for monitoring restaurant/store uptime and downtime within business hours using status pings, business hours, and timezone data.
+A robust backend service for monitoring restaurant/store uptime and downtime within business hours using status pings, business hours.
 
 ## Features
 
