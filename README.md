@@ -16,7 +16,7 @@ A robust backend service for monitoring restaurant/store uptime and downtime wit
 1. Create and activate Python 3.11+ environment
 2. Install deps: `pip install -r requirements.txt`
 3. Run API: `uvicorn app.main:app --reload`
-4. Ingest data (one-time or as data updates):
+4. Ingest data (one-time or as data updates)
    - Python REPL example:
      ```python
      from app.db.base import init_db
